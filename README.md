@@ -58,8 +58,22 @@ Discovered 3 active hosts with the following open ports:
 
 ## Screenshots
 See images below for documented lab evidence.
+
 ### IP Address Identifier
 ![IP address identifier](Screenshots/ip-address-identifier.JPG)
+
+### Local Host Scan
+![IP address identifier](Screenshots/localhost-scan.JPG)
+
+### Nmap Version
+![IP address identifier](Screenshots/nmap--version.JPG)
+
+### Nmap Scan
+![IP address identifier](Screenshots/nmap-scan.JPG)
+
+### Verberos Local Host
+![IP address identifier](Screenshots/verberos-local-host.JPG)
+
 ---
 
 ## References
