@@ -58,7 +58,8 @@ Discovered 3 active hosts with the following open ports:
 
 ## Screenshots
 See images below for documented lab evidence.
-
+### IP Address Identifier
+![IP address identifier](Screenshots/ip address identifier.JPG)
 ---
 
 ## References
